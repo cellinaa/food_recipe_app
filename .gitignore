@@ -1,11 +1,8 @@
 node_modules/
 .expo/
-dist/
 npm-debug.*
-.expo-shared/
 .vscode/
 config.js
-babel.config.js
 package-lock.json
 *.jks
 *.p8
