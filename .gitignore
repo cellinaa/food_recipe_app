@@ -10,6 +10,7 @@ package-lock.json
 *.key
 *.mobileprovision
 *.orig.*
+*.code-workspace
 
 # macOS
 .DS_Store
